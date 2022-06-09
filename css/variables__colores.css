@@ -1,0 +1,8 @@
+/* Variables personalizadas de Colores */
+:root {
+  --colour_pink:    #E84280;
+  --colour-pinktwo: #FFDDEB;
+  --colour-grey:    #9B9BAD;
+  --color-white:    #EFEEF4;
+  --colour-back:    rgb(11, 11, 11);
+}
